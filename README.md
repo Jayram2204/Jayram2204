@@ -42,7 +42,7 @@ A Web3 game where **autonomous AI agents act as persistent, on-chain NPCs**, sto
 ### AgentPay — on Monad
 An **agent-to-agent settlement layer** using x402 + ERC-7579 modular accounts. Cuts AI billing costs ~96% — turning $50 subscriptions into $2 micropayments with **0.8s finality**. Session-sharded storage unlocks 10,000+ parallel payments at ~$0.006 each.
 
-[![Stars](https://img.shields.io/github/stars/Jayram2204/Monad-Agent-Pay?style=flat&color=FFD700)](https://github.com/Jayram2204/Monad-Agent-Pay) · [Live dashboard](https://monad-agent-pay-three.vercel.app)
+[![Stars](https://img.shields.io/github/stars/Jayram2204/agentpay?style=flat&color=FFD700)](https://github.com/Jayram2204/agentpay) · [Live dashboard](https://monad-agent-pay-three.vercel.app)
 
 ### Synergi Cloud
 Decentralized cloud infrastructure for agent-native applications.
