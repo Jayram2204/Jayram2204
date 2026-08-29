@@ -6,7 +6,7 @@
 
 **Building autonomous, verifiable, agent-native systems — on-chain and off.**
 
-[![X (Personal)](https://img.shields.io/badge/X-%40Jayeshweb3-000000?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/Jayeshweb3])
+[![X (Personal)](https://img.shields.io/badge/X-%40Jayeshweb3style=for-the-badge&logo=x&logoColor=white)]([https://x.com/Jayeshweb3])
 [![X (Project)](https://img.shields.io/badge/X-%40Stellarchronics-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Stellarchronics)
 [![Telegram](https://img.shields.io/badge/Telegram-%40Jayram221-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jayram221)
 [![Email](https://img.shields.io/badge/Email-jayeshchavan957%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayeshchavan957@gmail.com)
